@@ -1,0 +1,4 @@
+/* Original L-system experiment. Symbol replacement builds a word that is interpreted as drawing and branching commands.
+ * Page-specific layout and controls; shared theme colors are supplied by /Theme.css.
+ */
+#gui { position: absolute; top: 15%;}
